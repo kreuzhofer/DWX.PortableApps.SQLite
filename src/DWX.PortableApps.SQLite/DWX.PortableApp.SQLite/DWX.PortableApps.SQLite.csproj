@@ -8,8 +8,8 @@
     <ProjectGuid>{18375F45-74DB-478B-8D3B-365E827AB6ED}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DWX.PortableApp.SQLite</RootNamespace>
-    <AssemblyName>DWX.PortableApp.SQLite</AssemblyName>
+    <RootNamespace>DWX.PortableApps.SQLite</RootNamespace>
+    <AssemblyName>DWX.PortableApps.SQLite</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

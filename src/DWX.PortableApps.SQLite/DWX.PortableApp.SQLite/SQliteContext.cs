@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
-using DWX.PortableApp.SQLite.Attributes;
-using DWX.PortableApp.SQLite.Metadata;
 using DWX.PortableApps.Logging;
+using DWX.PortableApps.SQLite.Attributes;
+using DWX.PortableApps.SQLite.Metadata;
 using SQLite.Net.Async;
 
-namespace DWX.PortableApp.SQLite
+namespace DWX.PortableApps.SQLite
 {
     public class SQliteContext
     {

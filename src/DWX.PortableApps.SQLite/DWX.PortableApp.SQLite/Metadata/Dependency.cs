@@ -1,6 +1,6 @@
 using System;
 
-namespace DWX.PortableApp.SQLite.Metadata
+namespace DWX.PortableApps.SQLite.Metadata
 {
     /// <summary>
     /// Structure for representing a dependency between to entities in a parent-child relationship

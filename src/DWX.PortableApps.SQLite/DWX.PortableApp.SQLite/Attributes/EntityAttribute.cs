@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DWX.PortableApp.SQLite.Attributes
+namespace DWX.PortableApps.SQLite.Attributes
 {
     public class EntityAttribute : Attribute
     {

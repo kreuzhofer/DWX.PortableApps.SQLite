@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWX.PortableApp.SQLite", "DWX.PortableApp.SQLite\DWX.PortableApp.SQLite.csproj", "{18375F45-74DB-478B-8D3B-365E827AB6ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWX.PortableApps.SQLite", "DWX.PortableApp.SQLite\DWX.PortableApps.SQLite.csproj", "{18375F45-74DB-478B-8D3B-365E827AB6ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

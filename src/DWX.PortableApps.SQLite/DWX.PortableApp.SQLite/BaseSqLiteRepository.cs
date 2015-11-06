@@ -1,4 +1,4 @@
-﻿namespace DWX.PortableApp.SQLite
+﻿namespace DWX.PortableApps.SQLite
 {
     public class BaseSqLiteRepository
     {
