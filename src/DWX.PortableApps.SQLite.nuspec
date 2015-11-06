@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>DWX.PortableApps.SQLite</id>
+        <version>1.0.0</version>
+        <authors>Daniel Kreuzhofer</authors>
+        <owners>Daniel Kreuzhofer</owners>
+        <licenseUrl>https://github.com/kreuzhofer/DWX.PortableApps.SQLite/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/kreuzhofer/DWX.PortableApps.SQLite</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>DWX.PortableApps.SQLite</description>
+        <copyright>2015 Microsoft Deutschland GmbH</copyright>
+    </metadata>
+    <files>
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.dll" target="lib\netcore45\DWX.PortableApps.SQLite.dll" />
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.pdb" target="lib\netcore45\DWX.PortableApps.SQLite.pdb" />
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.dll" target="lib\portable-net45+wp80+win8+wpa81+aspnetcore50\DWX.PortableApps.SQLite.dll" />
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.pdb" target="lib\portable-net45+wp80+win8+wpa81+aspnetcore50\DWX.PortableApps.SQLite.pdb" />
+        <file src="**\*.cs" target="src" />
+    </files>
+</package>
