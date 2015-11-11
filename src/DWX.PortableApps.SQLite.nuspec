@@ -12,10 +12,9 @@
         <copyright>2015 Microsoft Deutschland GmbH</copyright>
     </metadata>
     <files>
-        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.dll" target="lib\netcore45\DWX.PortableApps.SQLite.dll" />
-        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.pdb" target="lib\netcore45\DWX.PortableApps.SQLite.pdb" />
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.dll" target="lib\netcore\DWX.PortableApps.SQLite.dll" />
+        <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.pdb" target="lib\netcore\DWX.PortableApps.SQLite.pdb" />
         <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.dll" target="lib\portable-net45+wp80+win8+wpa81+aspnetcore50\DWX.PortableApps.SQLite.dll" />
         <file src="bin\DWX.PortableApps.SQLite\DWX.PortableApps.SQLite.pdb" target="lib\portable-net45+wp80+win8+wpa81+aspnetcore50\DWX.PortableApps.SQLite.pdb" />
-        <file src="**\*.cs" target="src" />
-    </files>
+        <file src="**\*.cs" target="src" />    </files>
 </package>
